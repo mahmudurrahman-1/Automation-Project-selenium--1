@@ -1,6 +1,7 @@
 # Automation-Project-selenium--1
+[![Netlify Status](https://api.netlify.com/api/v1/badges/12481787-8281-4368-bad5-e4aad3b3d29b/deploy-status)](https://app.netlify.com/sites/mahmudurautomation1/deploys)
 Test automation project with Selenium, Java, TestNG, Maven
-
+### [Report](https://mahmudurautomation1.netlify.app/)
 ### This project covers the following scenario:
 1. Sign in
 2. Checkbox, radio button
